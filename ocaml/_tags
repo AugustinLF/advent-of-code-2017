@@ -1,0 +1,2 @@
+true: package(batteries), package(ounit)
+true: debug

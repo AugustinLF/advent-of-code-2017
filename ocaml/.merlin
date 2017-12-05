@@ -1,0 +1,7 @@
+PKG Batteries
+PKG oUnit
+PKG Calendar
+S src
+S tests
+B _build/src
+B _build/tests
