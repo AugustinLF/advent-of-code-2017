@@ -4,6 +4,9 @@
   "description": "Trying harder this year?",
   "author": "Augustin Le Fèvre",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "jest": "^21.2.1",
     "prettier": "^1.8.2"
